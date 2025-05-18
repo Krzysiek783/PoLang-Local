@@ -1,0 +1,20 @@
+# Node.js
+**/node_modules/
+**/.env
+**/.env.local
+**/dist/
+**/build/
+
+# Expo / React Native
+**/.expo/
+**/.expo-shared/
+**/*.log
+**/*.lock
+**/.DS_Store
+
+# System
+**/Thumbs.db
+
+# Wrażliwe pliki
+**/app-example
+**/serviceAccountKey.json
